@@ -1,0 +1,5 @@
+priority,route_code,item_id,title,state,last_scan_branch,next_action,target_branch
+1,R1,IL-303,Coastal Footpaths,RETURN_TRANSIT,SOUTH,RETURN_HOME,NORTH
+2,R2,IL-302,Brass Instruments Today,IN_TRANSIT,WEST,DELIVER_OUTBOUND,UNASSIGNED
+3,R2,IL-308,Harbor Weather Logs,IN_TRANSIT,NORTH,DELIVER_OUTBOUND,UNASSIGNED
+4,R1,IL-301,Atlas of Clouds,AT_DESTINATION,WEST,AWAIT_RETURN_PICKUP,WEST
